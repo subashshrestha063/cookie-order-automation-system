@@ -85,3 +85,4 @@ Each scenario is documented individually inside the `/scenarios` folder.
 **Subash Shrestha**  
 Automation & Workflow Design (Make)
 
+⭐ If you find this project interesting, feel free to explore the scenarios and documentation.
