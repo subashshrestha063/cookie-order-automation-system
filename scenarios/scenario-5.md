@@ -14,6 +14,9 @@ Recovery notifications are sent only once per recovery event to avoid duplicate 
 - Recovery logic prevents repeated or false escalations.
 - Recovery notifications are sent only once per recovery event to avoid duplicate messages.
 
+  ### Scenario Overview
+<img src="/screenshots/scenario-5/Flow_scenario-5.png" width="600">
+
 ## Output
 - Corrected SLA levels
 - Orders that previously triggered SLA escalations are re-evaluated.
