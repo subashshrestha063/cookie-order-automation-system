@@ -41,7 +41,7 @@ The automation is divided into **6 independent but connected scenarios**, each r
 | Scenario 2 | Low-Stock Monitoring & Restock Alerts |
 | Scenario 3 | Order Lifecycle Status & Notifications |
 | Scenario 4 | SLA (Time-in-Status) Monitoring & Escalation |
-| Scenario 5 | SLA Recovery Automation |
+| Scenario 5 | SLA Recovery and De-Esclation Automation |
 | Scenario 6 | Daily Cookie Sold Summary |
 
 Each scenario is documented individually inside the `/scenarios` folder.
