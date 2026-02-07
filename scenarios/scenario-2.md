@@ -13,6 +13,9 @@ Inventory records are evaluated against minimum stock thresholds.
 - Alerts are generated only once per low-stock event to avoid notification spam.
 - The scenario is designed to work independently of order intake.
 
+### Scenario Overview
+<img src="/screenshots/scenario-2/flow_scenario-2.png" width="600">
+
 ## Output
 - Low-stock alerts sent to internal communication channels
 - Visibility into items requiring restocking
