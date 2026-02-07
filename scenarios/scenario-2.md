@@ -14,7 +14,7 @@ Inventory records are evaluated against minimum stock thresholds.
 - The scenario is designed to work independently of order intake.
 
 ### Scenario Overview
-<img src="/screenshots/scenario-2/flow_scenario-2.png" width="800">
+<img src="/screenshots/scenario-2/flow_scenario-2.png" width="850">
 
 ## Output
 - Low-stock alerts sent to internal communication channels
