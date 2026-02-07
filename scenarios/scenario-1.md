@@ -15,7 +15,7 @@ This scenario handles incoming customer orders and validates stock availability 
    - If stock is insufficient → mark order as **Out of Stock**
 
 ### Scenario Design
-<img src="/screenshots/scenario-1/flow_scenario-1.png" width="800">
+<img src="/screenshots/scenario-1/flow_scenario-1.png" width="850">
 
 ## Output
 - Inventory sheet updated
