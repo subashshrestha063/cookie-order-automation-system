@@ -16,7 +16,7 @@ Order records are continuously monitored for lifecycle status changes.
 - Inventory is restocked in case of cancellation.
 
 ### Scenario Design 
-<img src="/screenshots/scenario-3/flow_scenario-3.png" width="600">
+<img src="/screenshots/scenario-3/flow_scenario-3.png" width="750">
 
 
 
