@@ -36,16 +36,13 @@ The entire system is modular, scalable, and designed as a real business workflow
 
 The automation is divided into **6 independent but connected scenarios**, each responsible for a specific business function.
 
-| Scenario | Description |
-|--------|------------|
-| Scenario 1 | Order Intake & Stock Validation |
-| Scenario 2 | Low-Stock Monitoring & Restock Alerts |
-| Scenario 3 | Order Lifecycle Status & Notifications |
-| Scenario 4 | SLA (Time-in-Status) Monitoring & Escalation |
-| Scenario 5 | SLA Recovery and De-Esclation Automation |
-| Scenario 6 | Daily Cookie Sold Summary |
+- [Scenario 1 – Order Intake & Stock Validation](scenarios/scenario-1.md)
+- [Scenario 2 – Low-Stock Monitoring & Restock Alert Automation](scenarios/scenario-2.md)
+- [Scenario 3 – Order Lifecycle Status & Notification Automation](scenarios/scenario-3.md)
+- [Scenario 4 – SLA Monitoring & Escalation](scenarios/scenario-4.md)
+- [Scenario 5 – SLA Recovery and De-Esclation](scenarios/scenario-5.md)
+- [Scenario 6 – Daily Cookie Sold Summary](scenarios/scenario-6.md)
 
-Each scenario is documented individually inside the `scenarios/` folder.
 
 
 ---
