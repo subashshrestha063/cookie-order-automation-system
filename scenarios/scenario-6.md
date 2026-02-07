@@ -14,6 +14,9 @@ Order data from the day is evaluated and aggregated to produce key sales metrics
 - Top-performing items are identified based on total quantity sold.
 - The summary is designed to be informational and non-intrusive.
 
+### Scenario Overview
+<img src="/screenshots/scenario-6/Flow_scenario-6.png" width="700">
+
 ## Output
 - Daily sales summary delivered to internal channels and email to manager
 - Visibility into best-selling items
