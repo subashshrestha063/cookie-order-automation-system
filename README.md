@@ -12,6 +12,7 @@ The system simulates a real bakery workflow with production stages,
 time-based SLAs, escalation handling, and reporting.
 
 This automation system solves those problems by:
+- Accepting customer orders
 - Validating stock at order intake
 - Automatically updating inventory
 - Monitoring low stock and triggering alerts
@@ -44,7 +45,7 @@ The automation is divided into **6 independent but connected scenarios**, each r
 | Scenario 5 | SLA Recovery and De-Esclation Automation |
 | Scenario 6 | Daily Cookie Sold Summary |
 
-Each scenario is documented individually inside the [scenarios folder](/scenarios/ folder.
+Each scenario is documented individually inside the `scenarios/` folder.
 
 
 ---
@@ -63,7 +64,7 @@ Each scenario is documented individually inside the [scenarios folder](/scenario
   - Top-selling cookie
 
 ---
-## 📄 Data Design (Google Sheets)
+## Data Design (Google Sheets)
 - Orders Sheet
 - Inventory Sheet
 - Daily Cookie Sales Sheet
@@ -71,7 +72,7 @@ Each scenario is documented individually inside the [scenarios folder](/scenario
 
 ---
 
-## 🎯 Key Learnings
+## Learnings
 - Designing multiple automations
 - Handling time-based SLAs
 - Preventing duplicate notifications
@@ -79,9 +80,14 @@ Each scenario is documented individually inside the [scenarios folder](/scenario
 - Using Data Stores for aggregation
 
 ---
+## Notes
 
+This project was built as a hands-on automation exercise to simulate real operational challenges.  
+Implementation details are intentionally abstracted to focus on system design and logic.
 
-## 👤 Author
+---
+
+## Author
 **Subash Shrestha**  
 Automation & Workflow Design (Make)
 
