@@ -15,7 +15,7 @@ Order data from the day is evaluated and aggregated to produce key sales metrics
 - The summary is designed to be informational and non-intrusive.
 
 ### Scenario Overview
-<img src="/screenshots/scenario-6/Flow_scenario-6.png" width="800">
+<img src="/screenshots/scenario-6/Flow_scenario-6.png" width="850">
 
 ## Output
 - Daily sales summary delivered to internal channels and email to manager
