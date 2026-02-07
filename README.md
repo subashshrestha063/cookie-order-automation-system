@@ -44,7 +44,7 @@ The automation is divided into **6 independent but connected scenarios**, each r
 | Scenario 5 | SLA Recovery and De-Esclation Automation |
 | Scenario 6 | Daily Cookie Sold Summary |
 
-Each scenario is documented individually inside the `/scenarios` folder.
+Each scenario is documented individually inside the /scenarios folder.
 
 
 ---
