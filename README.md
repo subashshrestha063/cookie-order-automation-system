@@ -88,4 +88,4 @@ Implementation details are intentionally abstracted to focus on system design an
 **Subash Shrestha**  
 Automation & Workflow Design (Make)
 
-⭐ If you find this project interesting, feel free to explore the scenarios and documentation.
+⭐ If you find this project interesting, feel free to explore the [scenarios](scenarios/).
