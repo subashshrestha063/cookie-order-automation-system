@@ -13,7 +13,12 @@ Order records are continuously monitored for lifecycle status changes.
 - Notifications are sent only when the current status differs from the **Last Notified Status**, preventing duplicate alerts.
 - The **Last Status Update** timestamp is recorded whenever a valid status change occurs.
 - Internal assignment (e.g., baker team or delivery team) is updated automatically based on the order status.
-- Inventory is restocked in case of cancellation. 
+- Inventory is restocked in case of cancellation.
+
+### Scenario Design 
+<img src="/screenshots/scenario-3/flow_scenario-3.png" width="500">
+
+
 
 ## Output
 - Automated customer email notifications for order status updates
