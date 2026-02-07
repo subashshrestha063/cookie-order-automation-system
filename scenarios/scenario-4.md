@@ -16,6 +16,9 @@ Orders currently in active fulfillment states are evaluated against SLA threshol
 - Notifications differ based on both **order status** and **SLA escalation level**.
 - The **Current SLA Level** field is updated after each escalation to track progress.
 
+  ### Scenario Overview
+<img src="/screenshots/scenario-4/Flow_scenario-4.png" width="600">
+
 ## Output
 - SLA breach alerts sent to internal teams
 - Escalation notifications with increasing urgency
