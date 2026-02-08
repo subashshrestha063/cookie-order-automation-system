@@ -25,6 +25,24 @@ Order records are continuously monitored for lifecycle status changes.
 - Internal Discord notifications for operational awareness
 - Accurate tracking of order progression and lifecycle history
 
+## Discord Notification
+Here are few images of discord notification in baking and delivered channels.
+
+  ### Status Baking
+  <img src="/screenshots/scenario-3/status_baking_discord.png" width="600">
+
+  ### Status Delivered
+  <img src="/screenshots/scenario-3/status_delivered_discord.png" width="600">
+
+  ## Email Notification
+Here are few images of discord alert in baking and delivered channels.
+
+  ### Status Baking
+  <img src="/screenshots/scenario-3/status_baking_email.png" width="500">
+
+  ### Status Delivered
+  <img src="/screenshots/scenario-3/status_delivered_email.png" width="500">
+
 ## Platform & Components
 - Google Sheets (order data and lifecycle tracking)
 - Make.com (status detection, routing logic, and updates)
