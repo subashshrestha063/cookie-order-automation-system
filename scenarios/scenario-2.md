@@ -21,6 +21,12 @@ Inventory records are evaluated against minimum stock thresholds.
 - Visibility into items requiring restocking
 - Supports proactive inventory management
 
+  ### Discord Notification
+![Discord Low Stock Alert](/screenshots/scenario-2/restock_alert_discord.png)
+
+### Google Sheets
+![Inventory Sheet](/screenshots/scenario-2/google_sheet_inventory.png)
+
 ## Tools Used
 - Google Sheets (inventory data)
 - Make.com (scheduled checks and conditional logic)
