@@ -1,4 +1,4 @@
-# Scenario 6 – Daily Cookie Sold Summary & Sales Insights
+# Scenario 6 – Daily Sales Summary & Analytics
 
 ## Purpose
 This scenario generates a daily summary of cookie sales to provide clear visibility into sales performance and demand patterns.
