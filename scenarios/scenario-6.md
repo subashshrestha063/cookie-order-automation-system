@@ -21,6 +21,16 @@ Order data from the day is evaluated and aggregated to produce key sales metrics
 - Daily sales summary delivered to internal channels and email to manager
 - Visibility into best-selling items
 - Total quantity sold and total order count
+  
+
+  ### Discord Notification
+
+  <img src="/screenshots/scenario-6/daily_summary_discord.png" width="600">
+
+  ### Email Notification
+
+  <img src="/screenshots/scenario-6/daily_summary_email.png" width="500">
+
 
 ## Platform & Components
 - Google Sheets (order data)
