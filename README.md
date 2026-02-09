@@ -71,20 +71,39 @@ The automation uses Google Sheets as a structured data backend.
 - **Daily Cookie Sales** – Cookie-wise sales logs
 - **Daily Summary** – Aggregated daily metrics for reporting
 
+  ----
+  
+### 📂 Data Templates
+
+A ready-to-use Google Sheets template is provided to help you quickly
+replicate the data structure used by this automation.
+
+👉 [Google Sheets Template & Setup Guide](data/README.md)
+
+This template includes:
+- Predefined sheet names and headers
+- SLA tracking columns
+- Daily sales and summary structure
+- Automation-friendly formatting
+
 ---
 
 ## 🚀 How to Run 
 
-This project is built on **Make.com**.
+This project is built on **Make.com** and Google Sheets.
 
 To explore or replicate the automation:
 
-1. Open Make.com and create a new scenario.
-2. Import the JSON blueprint from the [`/blueprints`](blueprints/) folder.
-3. Create Google Sheets using the structure described above.
-4. Reconnect your own Google, Gmail, and Discord accounts.
+1. Open the Google Sheets template from the [`/data`](data/) folder.
+2. Click **File → Make a copy** and save it to your Google Drive.
+3. Open Make.com and create a new scenario.
+4. Import the corresponding JSON blueprint from the [`/blueprints`](blueprints/) folder.
+5. Reconnect your own Google Sheets, Gmail, and Discord accounts.
+6. Map the copied Google Sheet to the relevant modules.
 
 > ⚠️ **Note:**  
+> This project uses a shared Google Sheets template.  
+> Always work on your own copy to avoid permission issues.
 > Blueprints are provided for learning and reference.  
 > Minor adjustments may be required depending on your account setup.
 
@@ -135,14 +154,14 @@ To explore or replicate the automation:
 │   ├── scenario-4/
 │   ├── scenario-5/
 │   └── scenario-6/
-└── blueprints/
-    ├── scenario-1.json
-    ├── scenario-2.json
-    ├── scenario-3.json
-    ├── scenario-4.json
-    ├── scenario-5.json
-    └── scenario-6.json
-
+├── blueprints/
+│   ├── scenario-1.json
+│   ├── scenario-2.json
+│   ├── scenario-3.json
+│   ├── scenario-4.json
+│   ├── scenario-5.json
+│   └── scenario-6.json
+└── data/
 ```
 ## 📝 Notes 
 
