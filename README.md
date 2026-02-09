@@ -1,6 +1,7 @@
 # 🍪 ByteBake: End-to-End Cookie Order Automation System
 
 ![Make.com](https://img.shields.io/badge/Platform-Make.com-purple?style=flat&logo=make)
+![Google Forms](https://img.shields.io/badge/Input-Google%20Forms-blue?style=flat&logo=google-forms)
 ![Google Sheets](https://img.shields.io/badge/Database-Google%20Sheets-green?style=flat&logo=google-sheets)
 ![Discord](https://img.shields.io/badge/Notifications-Discord-5865F2?style=flat&logo=discord)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
