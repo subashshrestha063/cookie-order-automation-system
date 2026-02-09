@@ -22,6 +22,16 @@ Recovery notifications are sent only once per recovery event to avoid duplicate 
 - Orders that previously triggered SLA escalations are re-evaluated.
 - Clean and reliable escalation history
 
+  ## Discord Notification
+Here are few images of discord notification for status change of baking and dispatch with recovery SLA.
+
+  ### Baking Delay Recover
+  <img src="/screenshots/scenario-5/sla_recover_baking.png" width="600">
+
+  ### Dispatched Delay Recover
+  <img src="/screenshots/scenario-5/sla_recover_dispatched.png" width="600">
+
+
 ## Platform & Components
 - Google Sheets (order and SLA data)
 - Make.com (state evaluation and updates)
