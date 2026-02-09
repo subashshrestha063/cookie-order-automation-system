@@ -28,7 +28,7 @@
 For Detailed Documentaion Vist - [Scenario 3 – Order Lifecycle Status & Notification Automation](scenario-3.md)
 
   
-### Scenario 4 – Order SLA (Time-in-Status) Monitoring & Escalation
+### Scenario 4 – SLA Monitoring & Escalation
 ---
 - Tracks time spent in each status
 - SLA levels (0 → 1 → 2 → 3 → 4)
