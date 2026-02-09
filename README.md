@@ -4,6 +4,7 @@
 ![Google Forms](https://img.shields.io/badge/Input-Google%20Forms-blue?style=flat&logo=google-forms)
 ![Google Sheets](https://img.shields.io/badge/Database-Google%20Sheets-green?style=flat&logo=google-sheets)
 ![Discord](https://img.shields.io/badge/Notifications-Discord-5865F2?style=flat&logo=discord)
+![Gmail](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 > A production-style business automation project built using **Make.com** to manage
