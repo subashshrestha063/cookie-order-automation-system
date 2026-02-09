@@ -12,12 +12,12 @@ directly into Make.com.
 
 | File | Scenario |
 |-----|---------|
-| `scenario-1.json` | Order Intake & Stock Validation |
-| `scenario-2.json` | Low-Stock Monitoring & Alerts |
-| `scenario-3.json` | Order Lifecycle Notifications |
-| `scenario-4.json` | SLA Monitoring & Escalation |
-| `scenario-5.json` | SLA Recovery & De-Escalation |
-| `scenario-6.json` | Daily Sales Summary & Analytics |
+| [scenario 1.json](scenario-1.json) | Order Intake & Stock Validation |
+| [scenario 2.json](scenario-2.json) | Low-Stock Monitoring & Alerts |
+| [scenario 3.json](scenario-3.json) | Order Lifecycle Notifications |
+| [scenario 4.json](scenario-4.json) | SLA Monitoring & Escalation |
+| [scenario 5.json](scenario-5.json) | SLA Recovery & De-Escalation |
+| [scenario 6.json](scenario-6.json) | Daily Sales Summary & Analytics |
 
 ---
 
