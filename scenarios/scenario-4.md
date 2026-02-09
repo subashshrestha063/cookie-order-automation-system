@@ -1,4 +1,4 @@
-# Scenario 4 – SLA (Time-in-Status) Monitoring & Escalation Automation
+# Scenario 4 – SLA Monitoring & Escalation Automation
 
 ## Purpose
 This scenario monitors how long an order remains in a specific status and escalates alerts when defined SLA thresholds are breached. It helps identify delays early and ensures operational accountability.
