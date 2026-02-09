@@ -26,6 +26,7 @@ The sheet acts as a lightweight relational database connected to Make.com scenar
 ---
 
 ## 📁 Sheet Structure
+To ensure the automation scenarios function correctly, the Google Sheet must contain the following tabs with exact header names:
 
 ### 1️⃣ Orders
 Stores all customer orders and lifecycle states.
