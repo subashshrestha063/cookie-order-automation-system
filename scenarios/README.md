@@ -45,7 +45,7 @@ For Detailed Documentaion Vist - [Scenario 4 – SLA Monitoring & Escalation](sc
 For Detailed Documentaion Vist - [Scenario 5 – SLA Recovery and De-Esclation](scenario-5.md)
 
   
-### Scenario 6 – Daily Cookie Sold Summary
+### Scenario 6 – Daily Sales Summary & Analytics
 ---
 - Aggregates daily sales data
 - Calculates:
