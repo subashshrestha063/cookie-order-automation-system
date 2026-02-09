@@ -6,7 +6,8 @@ ByteBake Cookie Order Automation System.
 Each JSON file represents one complete automation scenario and can be imported
 directly into Make.com.
 
----
+Each blueprint directly corresponds to the documentation found in the
+[`/scenarios`](/scenarios/) folder.
 
 ## 📦 Blueprint Mapping
 
@@ -41,3 +42,16 @@ directly into Make.com.
 - Sheet names and headers must match those described in the main README
 
 These blueprints are shared for **learning, demonstration, and portfolio use**.
+They are **not production-ready out of the box** without configuration.
+
+---
+
+## 📌 Recommendation
+
+Before running a blueprint:
+- Read the corresponding scenario documentation
+- Review screenshots for expected outputs
+- Verify sheet headers and column names
+
+This ensures the automation behaves exactly as designed.
+
