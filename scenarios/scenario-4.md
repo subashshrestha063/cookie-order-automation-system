@@ -24,6 +24,16 @@ Orders currently in active fulfillment states are evaluated against SLA threshol
 - Escalation notifications with increasing urgency
 - Real-time visibility into delayed orders and bottlenecks
 
+## Discord Notification
+Here are few images of discord alert for SLA breached for baking and dispatch.
+
+  ## Baking Delay Level 3 SLA Alert
+  <img src="/screenshots/scenario-4/baking_delay_level_3.png" width="600">
+
+  ## Display Delay Level 1 SLA ALert
+  <img src="/screenshots/scenario-4/dispatch_delay_level_1.png" width="600">
+
+
 ## Platform & Components
 - Google Sheets (order status timestamps and SLA tracking)
 - Make.com (time calculations, filters, and routing logic)
