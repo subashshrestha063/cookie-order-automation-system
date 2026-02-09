@@ -55,7 +55,7 @@ to debug, extend, and maintain.
 | **Scenario 3** | Order Lifecycle Status & Notifications | Tracks order status changes and sends notifications |
 | **Scenario 4** | SLA Monitoring & Escalation | Detects delayed orders and escalates issues |
 | **Scenario 5** | SLA Recovery & De-escalation | Handles recovery when delayed orders are resolved |
-| **Scenario 6** | Daily Cookie Sold Summary | Generates daily sales analytics and summaries |
+| **Scenario 6** | Daily Sales Summary & Analytics | Generates daily sales analytics and summaries |
 
 Each scenario is documented individually in the [`/scenarios`](scenarios/) folder.
 
