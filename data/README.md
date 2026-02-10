@@ -126,3 +126,7 @@ This ensures data integrity and prevents accidental configuration issues.
 
 This Google Sheet is designed to simulate a real operational backend.  
 Field names and structure are intentionally explicit to support automation logic, SLA tracking, and reporting accuracy.
+
+For automation logic and flows, refer to:
+- [scenarios](/scenarios/) — scenario documentation
+- [blueprints](/blueprints/) — Make.com scenario JSON exports
