@@ -164,6 +164,7 @@ To explore or replicate the automation:
 │   ├── scenario-5.json
 │   └── scenario-6.json
 └── data/
+    └── README.md
 ```
 ## 📝 Notes 
 
