@@ -90,6 +90,6 @@ Purpose: Generates a daily sales report summarizing business performance.
 
 ## 🔗 Related Documentation
 
-- 📄 Scenario Logic: [`scenarios`](scenarios/)
-- ⚙️ Make.com Blueprints: [`blueprints`](blueprints/)
-- 📊 Data Templates: [`data`](data/)
+- 📄 Scenario Logic: [`scenarios`](/scenarios/)
+- ⚙️ Make.com Blueprints: [`blueprints`](/blueprints/)
+- 📊 Data Templates: [`data`](/data/)
